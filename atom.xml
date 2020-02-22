@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://danielleeodyssey.github.io/</id>
-    <title>Daniel 大牛</title>
-    <updated>2020-02-22T01:35:15.503Z</updated>
+    <title>Daniel&apos;s Blog</title>
+    <updated>2020-02-22T08:56:32.649Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://danielleeodyssey.github.io/"/>
     <link rel="self" href="https://danielleeodyssey.github.io/atom.xml"/>
     <logo>https://danielleeodyssey.github.io/images/avatar.png</logo>
     <icon>https://danielleeodyssey.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Daniel 大牛</rights>
+    <rights>All rights reserved 2020, Daniel&apos;s Blog</rights>
     <entry>
         <title type="html"><![CDATA[Hello World!]]></title>
         <id>https://danielleeodyssey.github.io/post/hello-world/</id>
