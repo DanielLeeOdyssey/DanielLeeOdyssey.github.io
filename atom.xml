@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://danielleeodyssey.github.io/</id>
     <title>Daniel 大牛</title>
-    <updated>2020-02-22T01:25:52.853Z</updated>
+    <updated>2020-02-22T01:35:15.503Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://danielleeodyssey.github.io/"/>
     <link rel="self" href="https://danielleeodyssey.github.io/atom.xml"/>
@@ -15,7 +15,5 @@
         <link href="https://danielleeodyssey.github.io/post/hello-world/">
         </link>
         <updated>2020-02-21T08:08:54.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://danielleeodyssey.github.io//post-images/1582277172945.jpg" alt="" loading="lazy"></figure>
-]]></content>
     </entry>
 </feed>
