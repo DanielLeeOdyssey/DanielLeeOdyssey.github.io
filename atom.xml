@@ -2,13 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://danielleeodyssey.github.io/</id>
     <title>Daniel&apos;s Blog</title>
-    <updated>2020-03-16T03:46:07.143Z</updated>
+    <updated>2020-03-21T12:39:21.399Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://danielleeodyssey.github.io/"/>
     <link rel="self" href="https://danielleeodyssey.github.io/atom.xml"/>
     <logo>https://danielleeodyssey.github.io/images/avatar.png</logo>
     <icon>https://danielleeodyssey.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Daniel&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[ My Workout Record]]></title>
+        <id>https://danielleeodyssey.github.io/post/my-workout-record/</id>
+        <link href="https://danielleeodyssey.github.io/post/my-workout-record/">
+        </link>
+        <updated>2020-03-21T12:28:14.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Workout Record]]></title>
+        <id>https://danielleeodyssey.github.io/post/workout-record/</id>
+        <link href="https://danielleeodyssey.github.io/post/workout-record/">
+        </link>
+        <updated>2020-03-21T12:28:14.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cranfield Check List]]></title>
         <id>https://danielleeodyssey.github.io/post/cranfield-check-list/</id>
