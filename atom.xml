@@ -2,13 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://danielleeodyssey.github.io/</id>
     <title>Daniel&apos;s Blog</title>
-    <updated>2020-03-21T12:39:42.413Z</updated>
+    <updated>2020-04-08T08:39:43.270Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://danielleeodyssey.github.io/"/>
     <link rel="self" href="https://danielleeodyssey.github.io/atom.xml"/>
     <logo>https://danielleeodyssey.github.io/images/avatar.png</logo>
     <icon>https://danielleeodyssey.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Daniel&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[ML100days]]></title>
+        <id>https://danielleeodyssey.github.io/post/ml100days/</id>
+        <link href="https://danielleeodyssey.github.io/post/ml100days/">
+        </link>
+        <updated>2020-03-28T07:53:25.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PLAN 2020-2030]]></title>
+        <id>https://danielleeodyssey.github.io/post/plan-2020-2030/</id>
+        <link href="https://danielleeodyssey.github.io/post/plan-2020-2030/">
+        </link>
+        <updated>2020-03-22T13:50:44.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ My Workout Record]]></title>
         <id>https://danielleeodyssey.github.io/post/my-workout-record/</id>
@@ -24,7 +38,7 @@
         <updated>2020-03-14T08:02:41.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2020.03-2020.12 schedule ]]></title>
+        <title type="html"><![CDATA[2020 schedule ]]></title>
         <id>https://danielleeodyssey.github.io/post/202003-202012-schedule/</id>
         <link href="https://danielleeodyssey.github.io/post/202003-202012-schedule/">
         </link>
